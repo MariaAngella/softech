@@ -1,0 +1,25 @@
+{
+  "name": "softech",
+  "version": "1.0.0",
+  "description": "Softech is a Computer shop that sells laptops with the below descriptions, specifications and Accessories;\r 1. Laptops\r -Hdd size\r -ram\r -cpu speed\r -battery life\r -screen size\r -model\r -manufacturer\r -price\r -OS\r -Serial Number",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaAngella/softech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaAngella/softech/issues"
+  },
+  "homepage": "https://github.com/MariaAngella/softech#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
